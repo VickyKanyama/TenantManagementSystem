@@ -7,7 +7,6 @@ android {
     compileSdk {
         version = release(37)
     }
-
     buildFeatures {
         viewBinding = true
     }
